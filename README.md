@@ -1,1 +1,1 @@
-# Parrot-lab-config using s4vit4r guide
+# Parrot-lab-config using s4vitar guide
